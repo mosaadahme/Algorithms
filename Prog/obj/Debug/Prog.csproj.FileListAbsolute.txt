@@ -1,0 +1,10 @@
+C:\Users\Mosaad\source\repos\Prog\Prog\bin\Debug\Prog.exe
+C:\Users\Mosaad\source\repos\Prog\Prog\bin\Debug\Prog.pdb
+C:\Users\Mosaad\source\repos\Prog\Prog\obj\Debug\Prog.csproj.AssemblyReference.cache
+C:\Users\Mosaad\source\repos\Prog\Prog\obj\Debug\Prog.Form1.resources
+C:\Users\Mosaad\source\repos\Prog\Prog\obj\Debug\Prog.Properties.Resources.resources
+C:\Users\Mosaad\source\repos\Prog\Prog\obj\Debug\Prog.csproj.GenerateResource.cache
+C:\Users\Mosaad\source\repos\Prog\Prog\obj\Debug\Prog.csproj.CoreCompileInputs.cache
+C:\Users\Mosaad\source\repos\Prog\Prog\obj\Debug\Prog.exe
+C:\Users\Mosaad\source\repos\Prog\Prog\obj\Debug\Prog.pdb
+C:\Users\Mosaad\source\repos\Prog\Prog\obj\Debug\Prog.Form2.resources
